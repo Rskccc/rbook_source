@@ -1,0 +1,73 @@
+# Final Project
+
+
+## What is it?
+
+In this class, you are expected to formulate groups with your classmates,
+work as a group on a data analysis project using what you learn from the
+class (and beyond) about **R**, generate a analysis report, and present as a
+group your report in the last week.
+
+
+## What are the project options?
+
+Ideally, the projects will be based on *real* tasks you have from your
+research or daily work.
+
+Several options will also be suggested to you *only if* your group has
+difficulty identifying an appropriate topic.
+
+
+## What needs to be in the report?
+
+The report should consider including the following sections:
+
+-   Background
+    -   Introduction of the project
+-   Goal
+    -   Research question(s) the analysis aims to answer
+-   Data
+    -   Description of the data
+    -   Data cleaning and manipulation steps
+    -   Data summary and visualization
+-   Analysis
+    -   Methods applied in the analysis
+-   Results and summary
+    -   Report your findings
+
+
+## How should the report be formatted?
+
+-   Use **R Markdown** for conducting your analysis and generating the report.
+-   You report may be included in this **R for Cancer Research** book!
+-   An example is provided in the next chapter
+
+
+## Recommendations
+
+-   Try things out in R
+    -   You should make a real effort to practice what was covered in class
+        in a complete project that includes reading in data, doing something
+        intentional to it and reporting the results of that analysis in an
+        organized way.
+-   Write up your methods and results
+    -   In addition to your code, the report should also be a well-written document
+        that clearly summarizes the analysis, and presents results in a
+        logical and readable way. Plots should have meaningful labels, and
+        should incorporate such elements as color, multiple plotting symbols,
+        and legends as necessary for clarity. Summary statistics should be
+        rounded to a relevant number of significant digits, etc&#x2026;
+-   Submit clean, well commented code
+    -   Code should employ self-documenting
+        variable names, and include comments as needed so that a collaborator
+        could follow it easily.
+-   Reproducibility
+    -   This means that we, with the same files in an appropriately named
+        directory, can reproduce your final results simply by rendering your
+        R markdown file.
+    -   You will find it easier to produce clean code if you designate a
+        discrete work space for the project, and keep everything there,
+        always work from a script you write rather than working interactively
+        at the R-prompt, organize your code into logical sections, and
+        annotate your code with comments so you can keep track of what each
+        chunk is supposed to do.
