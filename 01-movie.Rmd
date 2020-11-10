@@ -8,7 +8,7 @@ Minnesota. It is very much like the ones included in Netflix and elsewhere, but
 free and open. The latest release of the data includes 20,000,000 individual
 ratings of 27,000 movies by 138,000 users.
 
-For class, we are using (most of) the much smaller, 1998 release, which includes
+For this exercise, we are using (most of) the much smaller, 1998 release, which includes
 100,000 ratings, of 1700 movies by nearly 1000 users. The data included on the
 class website is modified slightly from the original. Specifically, we have:
 

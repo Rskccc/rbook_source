@@ -3,24 +3,36 @@
 
 ## What is it?
 
-In this class, you are expected to formulate groups with your classmates,
-work as a group on a data analysis project using what you learn from the
-class (and beyond) about **R**, generate a analysis report, and present as a
-group your report in the last week.
+In this class, you are expected to work in a group, with classmates,
+to complete a small data analysis project using what you learn from the
+class (and beyond) about **R**.  Your group should enerate a analysis report, and present it in the last week.
 
 
 ## What are the project options?
 
-Ideally, the projects will be based on *real* tasks you have from your
-research or daily work.
+You can work on almost anything you want. Ideally, the projects will be based on *real* data analysis tasks you have from your research or daily work. We can help you find suitable data sources if you do not have data in hand. A couple of options from previous offerings of the course are described below, as well. 
 
-Several options will also be suggested to you *only if* your group has
-difficulty identifying an appropriate topic.
+As illustrated in the moviestar example below, the project doesn't need to be large or complicated. We expect you to demonstrate comfort with a range of **R** skills rather than mastery of any specific task.  Accordingly, projects should include all the following steps:
+
+- Data Import
+- Perform some exploration prior to analysis to make sure you understand the data and its ready to go. Depending on project this might include:
+
+  - visualizations
+    - summary statistics
+    - data cleaning, such as standardizing terminology, removing samples with incomplete data, or applying a log transformation.
+
+- Plan and perform an analysis. Its a good idea to keep the analysis itself simple so you can focus on your R skills rather than learning statistics. So be sure to try things out:
+
+    - write at least one function of your own
+    - use one or more programming routines such as *if-then* or *for loop*
+    - try out *apply* or *sapply*
+
+- Presentation of results in figures, tables, etc... 
 
 
 ## What needs to be in the report?
 
-The report should consider including the following sections:
+The report should include the following sections:
 
 -   Background
     -   Introduction of the project
@@ -51,12 +63,11 @@ The report should consider including the following sections:
         intentional to it and reporting the results of that analysis in an
         organized way.
 -   Write up your methods and results
-    -   In addition to your code, the report should also be a well-written document
-        that clearly summarizes the analysis, and presents results in a
+    -   Your project should demonstrate the principles of *literate coding*, meaning that the logic of the code, and reasons behind choices you made, are clearly explained in the report.  Likewise, results should be presented in a
         logical and readable way. Plots should have meaningful labels, and
         should incorporate such elements as color, multiple plotting symbols,
         and legends as necessary for clarity. Summary statistics should be
-        rounded to a relevant number of significant digits, etc&#x2026;
+        rounded to a relevant number of significant digits, etc. Since this is a programming class, such formatting should be handled in the code, as much as possible, rather than tweaked manually. 
 -   Submit clean, well commented code
     -   Code should employ self-documenting
         variable names, and include comments as needed so that a collaborator
